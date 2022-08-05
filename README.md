@@ -1,16 +1,27 @@
+
+
 # facehub
 
-A new Flutter project.
+## _Flutter interface for implement facehub concept_
 
-## Getting Started
+## Preview
 
-This project is a starting point for a Flutter application.
+![Facehub preview](./github-mobhub.png)
 
-A few resources to get you started if this is your first Flutter project:
+## FEATURES
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- just make ui
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Author
+
+- [njammy](https://github.com/njammy)
+
+## License
+
+- [MIT](./LICENSE)
+
+**Free Software !**
+
+## Note to me from the future
+
+**Dear please Keep It Simple... :)**
