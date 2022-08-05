@@ -1,5 +1,3 @@
-
-
 # facehub
 
 ## _Flutter interface for implement facehub concept_
