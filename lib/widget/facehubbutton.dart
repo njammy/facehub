@@ -24,7 +24,8 @@ class FaceHubButton extends StatelessWidget {
                 child: const Center(
                   child: Text(
                     "LOGIN",
-                    style: TextStyle(fontWeight: FontWeight.bold),
+                    style: TextStyle(
+                        fontWeight: FontWeight.bold, color: Color(0xff794C42)),
                   ),
                 )),
           ),
@@ -38,7 +39,8 @@ class FaceHubButton extends StatelessWidget {
               child: const Center(
                 child: Text(
                   "SIGN IN",
-                  style: TextStyle(fontWeight: FontWeight.bold),
+                  style: TextStyle(
+                      fontWeight: FontWeight.bold, color: Color(0xff794C42)),
                 ),
               ),
             ),

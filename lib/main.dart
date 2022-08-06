@@ -58,13 +58,14 @@ class _MyHomePageState extends State<MyHomePage> {
               ),
               Container(
                 margin: const EdgeInsets.only(
-                    top: 20, bottom: 20, left: 15, right: 15),
+                    top: 0, bottom: 30, left: 15, right: 15),
                 child: Column(
-                  children: const [
+                  children: [
                     Text(
                       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
                       textAlign: TextAlign.center,
-                      style: TextStyle(fontSize: 15),
+                      style: TextStyle(
+                          fontSize: 15, color: Colors.black.withOpacity(.6)),
                     )
                   ],
                 ),
