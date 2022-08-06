@@ -10,6 +10,11 @@
 
 - just make ui
 
+## CODING SONG
+
+- [Tems Woman No Cry](https://www.boomplay.com/songs/96904106?srModel=COPYLINK&srList=WEB)
+- [No Woman No Cry (Tribute Version Originally Performed By Tems)](https://www.boomplay.com/songs/97236362?srModel=COPYLINK&srList=WEB)
+
 ## Author
 
 - [njammy](https://github.com/njammy)
